@@ -1,2 +1,7 @@
-# VueJS_Sample_Code_R
-Vue JS sample code
+/*****************************************************************************************/
+
+This Repository has Sample code for VueJs
+
+This code for Signup and Profile update section
+
+/*****************************************************************************************/
